@@ -5,5 +5,8 @@ This repository contains solutions to the Programming Street - 150 curated progr
 The collection is divided into three sprints, each addressing different skill levels:
 
 PS-Sprint-1 (Beginner Level): Covers basic programming challenges to build a strong foundation in programming concepts and problem-solving.
+
 PS-Sprint-2 (Intermediate Level): Focuses on more complex problems, enhancing your understanding of fundamental concepts.
+
 PS-Sprint-3 (Advanced Level): Prepares you for challenging programming tasks with advanced-level problems to solidify your skills.
+
